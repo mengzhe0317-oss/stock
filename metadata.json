@@ -1,0 +1,6 @@
+{
+  "name": "台股量化指標追蹤與 AI 戰略診斷系統",
+  "description": "專業台股量化技術指標即時追蹤（均線糾結突破、布林通道、KD/MACD動能翻多）、避險部位排除機制、個人看盤專屬技巧與 Gemini AI 實戰盤勢診斷系統。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
